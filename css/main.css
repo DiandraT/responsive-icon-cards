@@ -127,50 +127,50 @@ body {
 
 @media only screen and (min-width: 38em) {
 
-html {
-  line-height: 1.4;
-  font-size: 110%;
+  html {
+    line-height: 1.4;
+    font-size: 110%;
 }
 
-.card {
-  display: inline-block;
-  text-align:left;
-  width: 195px;
+  .card {
+    display: inline-block;
+    text-align: left;
+    width: 195px;
 }
 
-.card-img {
-  width: 50px;
-  margin-left: 4em;
+  .card-img {
+    width: 50px;
+    margin-left: 4em;
 }
 
-.atlas-content,
-.hercules-content,
-.ornate-content {
-  margin: 0;
+  .atlas-content,
+  .hercules-content,
+  .ornate-content {
+    margin: 0;
 }
 
-.hercules-content {
-  margin-right: 1em;
+  .hercules-content {
+    margin-right: 1em;
 }
 
 }
 
 @media only screen and (min-width: 60em) {
 
-html {
-  line-height: 1.5;
-  font-size: 120%;
+  html {
+    line-height: 1.5;
+    font-size: 120%;
 }
 
-.card {
-  display: inline-block;
-  text-align:left;
-  width: 300px;
+  .card {
+    display: inline-block;
+    text-align: left;
+    width: 300px;
 }
 
-.card-img {
-  width: 50px;
-  margin-left: 6em;
+  .card-img {
+    width: 50px;
+    margin-left: 6em;
 }
 
 }
@@ -184,7 +184,7 @@ html {
 
   .card {
     display: inline-block;
-    text-align:left;
+    text-align: left;
     width: 400px;
   }
 
